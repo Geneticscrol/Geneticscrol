@@ -60,14 +60,6 @@ I am a student developer with a focus on **securing the digital backbone of mode
 
 ---
 
-### 📊 Performance & Impact
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Geneticscrol&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Geneticscrol's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geneticscrol&layout=compact&theme=tokyonight&langs_count=6" />
-</div>
-
----
-
 ### ⚡ Quick Stats
 - 🔭 **I’m currently working on:** Confidential Defense Tech Projects 🇮🇳
 - 🌱 **I’m currently learning:** Advanced CI/CD Security & Infrastructure as Code (Terraform).
